@@ -6,7 +6,7 @@ You should replace the wsl.sh to the dev environment especified.
  - Ubuntu Environment
 
 ```sh
-  chmod -x [environment].sh
+  chmod +x [environment].sh
 ```
 
 And then execute it
